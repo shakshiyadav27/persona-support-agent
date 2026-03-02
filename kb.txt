@@ -1,0 +1,5 @@
+401 error means unauthorized access. Please check your API key.
+App crash can be fixed by restarting the application.
+ROI impact depends on downtime duration and customer churn risk.
+Payment failure may be due to insufficient balance.
+Login issues can be resolved by resetting your password.
